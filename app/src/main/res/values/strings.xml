@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EjercicioGPS</string>
+    <string name="fabGps">Mostrar Localizacion</string>
+
+    <string name="dialog_text_title">Habilitar GPS?</string>
+    <string name="dialog_text_description"> Esta aplicacion necesita hacer uso de sus coordenadas, desea habilitar las mismas?</string>
+    <string name="dialog_button_accept">Habilitar</string>
+    <string name="dialog_button_denny">Rechazar</string>
+    <string name="coords">coords</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="btn_normal" />
+    <string name="btn_Hibrido">Hibrido</string>
+    <string name="btn_Satelital">Satelital</string>
+    <string name="btn_Terreno">Terreno</string>
+    <string name="btn_None">N/A</string>
+    <string name="btn_normal1">normal</string>
+</resources>
